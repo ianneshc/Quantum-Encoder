@@ -13,6 +13,7 @@
 
 
 ## Installation
+First of all you will need to have python installed on your machine: [Download Python](https://www.python.org/downloads/)
 
 Install the Quantum encoder dependencies with the following commands:
 
