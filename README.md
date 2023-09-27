@@ -1,7 +1,7 @@
 
-# Quantum Encoder V0 Zahara
+# Quantum Keychain V1 Setenil
 
-⁉️ The Quantum Encoder is a hybrid encryption simulator created for the final bachelorship research project. The purpose of the Quantum Encoder is to simulate the behavior of a BB84 + RSA hybrid asymmetric encryption system and demonstrate that it is more secure.
+⁉️ The Quantum Keychain app is a hybrid encryption simulator created for the final bachelorship research project. The purpose of the Quantum Encoder is to simulate the behavior of a BB84 + RSA hybrid asymmetric encryption system and demonstrate that it is more secure.
 
 
 
